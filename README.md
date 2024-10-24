@@ -21,3 +21,5 @@ The dashboard incorporates various visualizations to effectively present the dat
 ## Results
 The dashboard provides valuable insights into sales performance, enabling stakeholders to make informed decisions based on data trends and patterns.
 
+I have added pdf version of my dashboard for view purpose.
+
